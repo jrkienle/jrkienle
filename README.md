@@ -1,4 +1,4 @@
-[![Header](header.png "Header")](https://jameskienle.com/)
+[![Header](profile-header.png "Header")](https://jameskienle.com/)
 
 # Hi, I'm James!
 
