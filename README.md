@@ -2,9 +2,20 @@
 
 # Hi, I'm James!
 
-Nice to meet you! I'm currently a Senior Software Engineer at
-[Vitalize](https://github.com/vitalizecare/) and am developing Manatee, a Zig based game engine in
-my free time.
+Thanks for stopping by my GitHub profile! I'm a Principal Frontend Engineer at
+[CareValidate](https://github.com/carevalidate/) and am developing
+[Manatee](https://manateeengine.org), a Zig-based game engine in my free time. I have over a decade
+of professional experience in startups all the way from pre-seed, to growth, all the way to
+successful IPO / exits.
+
+I've spent the majority of my career working in the health tech sector, and consider myself to be a
+frontend-focused full stack engineer. Every day you'll find me writing TypeScript and Zig, immersed
+in React, Solid, Vue, and TailwindCSS, building robust APIs with Node.js (I absolutely love pairing
+this with Effect.ts), modeling PostgreSQL data with Drizzle and Prisma, and setting up bulletproof
+AWS, Cloudflare, and GCP infrastructure with Terraform and CDK. I firmly believe that quality >>>
+speed (but by prioritizing the right DX you can have both), and that comprehensive unit,
+integration, and e:e tests are always a hard requirement (especially with the introduction of
+agentic development).
 
 ## Open Source Work
 
